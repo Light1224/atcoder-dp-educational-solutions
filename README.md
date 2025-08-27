@@ -1,2 +1,2 @@
-My solutions of
+My solutions for
 https://atcoder.jp/contests/dp
